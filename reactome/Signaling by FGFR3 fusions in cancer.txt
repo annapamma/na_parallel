@@ -1,0 +1,2 @@
+Signaling by FGFR3 fusions in cancer
+KRAS	PIK3R1	NRAS	FRS2	PIK3CA	GAB1	HRAS	SOS1	FGFR3	GRB2

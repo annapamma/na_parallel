@@ -1,0 +1,2 @@
+c-src mediated regulation of Cx43 function and closure of gap junctions
+TJP1	GJA1	SRC

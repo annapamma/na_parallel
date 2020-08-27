@@ -1,0 +1,2 @@
+Trafficking of myristoylated proteins to the cilium
+UNC119B	RP2	NPHP3	ARL3	CYS1

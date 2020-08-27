@@ -1,0 +1,2 @@
+PTK6 Regulates RTKs and Their Effectors AKT1 and DOK1
+UBB	ARAP1	RPS27A	AKT1	UBC	CBL	DOK1	PTK6	UBA52

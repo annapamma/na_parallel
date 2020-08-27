@@ -1,0 +1,2 @@
+Transmission across Electrical Synapses
+PANX2	PANX1	GJA10	GJD2	GJC1

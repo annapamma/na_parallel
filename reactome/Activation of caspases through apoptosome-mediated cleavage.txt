@@ -1,0 +1,2 @@
+Activation of caspases through apoptosome-mediated cleavage
+CASP3	CASP9	APAF1	CASP7	CYCS

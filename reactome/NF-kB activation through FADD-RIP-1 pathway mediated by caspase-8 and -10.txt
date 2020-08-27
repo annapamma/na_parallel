@@ -1,0 +1,2 @@
+NF-kB activation through FADD-RIP-1 pathway mediated by caspase-8 and -10
+MAVS	RIPK1	IKBKG	CASP8	CASP10	RNF135	DDX58	IKBKB	CHUK	IFIH1	TRIM25	FADD

@@ -1,0 +1,2 @@
+Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs-IMPs-VICKZs) bind RNA
+ACTB	IGF2BP2	IGF2BP1	CD44	IGF2BP3	IGF2	H19	MYC

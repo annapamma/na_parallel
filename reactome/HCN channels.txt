@@ -1,0 +1,2 @@
+HCN channels
+HCN4	HCN3	HCN1	HCN2

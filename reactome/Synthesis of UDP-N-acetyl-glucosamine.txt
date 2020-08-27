@@ -1,0 +1,2 @@
+Synthesis of UDP-N-acetyl-glucosamine
+GFPT1	GFPT2	NAGK	GNPNAT1	AMDHD2	RENBP	PGM3	UAP1

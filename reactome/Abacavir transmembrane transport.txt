@@ -1,0 +1,2 @@
+Abacavir transmembrane transport
+SLC22A1	ABCB1	ABCG2	SLC22A2	SLC22A3

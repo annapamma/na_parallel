@@ -1,0 +1,2 @@
+Defective CSF2RB causes pulmonary surfactant metabolism dysfunction 5 (SMDP5)
+SFTPB	CSF2RA	SFTPA1	SFTPC	SFTPA2	SFTA3	SFTPD	CSF2RB

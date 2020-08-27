@@ -1,0 +1,2 @@
+RUNX3 regulates RUNX1-mediated transcription
+CBFB	RUNX1	RUNX3

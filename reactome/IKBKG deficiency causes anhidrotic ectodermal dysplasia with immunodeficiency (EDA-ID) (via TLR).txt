@@ -1,0 +1,2 @@
+IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR)
+IKBKG	NFKB1	NFKBIB	NFKBIA	NFKB2	IKBKB	CHUK	RELA

@@ -1,0 +1,2 @@
+TFAP2 (AP-2) family regulates transcription of growth factors and their receptors
+TGFA	CGA	ATAD2	TFAP2B	TFAP2A	VEGFA	KIT	ESR1	TFAP2C	EGFR	CGB3	YY1	ERBB2

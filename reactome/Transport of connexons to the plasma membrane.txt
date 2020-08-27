@@ -1,0 +1,2 @@
+Transport of connexons to the plasma membrane
+GJA1	GJB2

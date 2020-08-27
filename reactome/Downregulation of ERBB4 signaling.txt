@@ -1,0 +1,2 @@
+Downregulation of ERBB4 signaling
+UBB	RPS27A	UBC	ERBB4	UBA52	WWP1	NEDD4	ITCH

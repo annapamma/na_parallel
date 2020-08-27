@@ -1,0 +1,2 @@
+Melanin biosynthesis
+TYR	OCA2	TYRP1	DCT	SLC45A2

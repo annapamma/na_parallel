@@ -1,0 +1,2 @@
+SeMet incorporation into proteins
+DARS	EEF1E1	AIMP1	MARS	AIMP2	KARS	QARS	IARS	RARS	EPRS	LARS

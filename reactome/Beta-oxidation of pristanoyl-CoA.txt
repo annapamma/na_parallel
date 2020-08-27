@@ -1,0 +1,2 @@
+Beta-oxidation of pristanoyl-CoA
+CRAT	ACOX3	ACOXL	HSD17B4	SCP2	CROT	AMACR	ACOX2	ACOT8

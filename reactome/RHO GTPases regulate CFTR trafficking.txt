@@ -1,0 +1,2 @@
+RHO GTPases regulate CFTR trafficking
+GOPC	CFTR	RHOQ

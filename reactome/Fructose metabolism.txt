@@ -1,0 +1,2 @@
+Fructose metabolism
+GLYCTK	ALDH1A1	AKR1B1	TKFC	SORD	ALDOB	KHK

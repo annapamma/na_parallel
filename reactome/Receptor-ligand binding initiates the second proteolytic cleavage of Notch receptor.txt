@@ -1,0 +1,2 @@
+Receptor-ligand binding initiates the second proteolytic cleavage of Notch receptor
+UBB	RPS27A	UBC	JAG2	ADAM17	NOTCH1	DLL4	ADAM10	NOTCH4	NOTCH2	UBA52	DLL1	JAG1	NOTCH3

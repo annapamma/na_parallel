@@ -1,0 +1,2 @@
+Transcriptional activation of p53 responsive genes
+ZNF385A	TP53	PCBP4	CDKN1A

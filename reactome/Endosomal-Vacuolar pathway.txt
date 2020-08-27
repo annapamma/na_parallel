@@ -1,0 +1,2 @@
+Endosomal-Vacuolar pathway
+HLA-E	HLA-C	CTSS	CTSV	HLA-B	HLA-F	HLA-G	CTSL	LNPEP	B2M	HLA-H	HLA-A

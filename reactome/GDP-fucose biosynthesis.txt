@@ -1,0 +1,2 @@
+GDP-fucose biosynthesis
+FPGT	FUK	SLC35C1	TSTA3	FUOM	GMDS

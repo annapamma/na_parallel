@@ -1,0 +1,2 @@
+ATF6 (ATF6-alpha) activates chaperone genes
+XBP1	NFYA	ATF6	DDIT3	CALR	ATF4	NFYC	HSPA5	HSP90B1	NFYB

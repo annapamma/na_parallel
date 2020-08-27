@@ -1,0 +1,2 @@
+Interleukin-38 signaling
+MAPK8	IL1F10	IL1RAPL1	IL1RL2

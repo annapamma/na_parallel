@@ -1,0 +1,2 @@
+Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1
+HDAC1	E2F1	RBBP4	E2F4	CCNA2	MYBL2	CDK1	LIN9	LIN37	RBL1	E2F5	RBL2	LIN54	TFDP1	LIN52	TFDP2

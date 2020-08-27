@@ -1,0 +1,2 @@
+Crosslinking of collagen fibrils
+PCOLCE	PXDN	LOXL3	BMP1	LOXL1	LOXL4	LOX	LOXL2	TLL1	TLL2

@@ -1,0 +1,2 @@
+Ligand-independent caspase activation via DCC
+UNC5A	DAPK1	DCC	CASP3	MAGED1	CASP9	APPL1	UNC5B	DAPK2	DAPK3

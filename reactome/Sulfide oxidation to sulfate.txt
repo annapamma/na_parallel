@@ -1,0 +1,2 @@
+Sulfide oxidation to sulfate
+SQOR	ETHE1	TST	SLC25A10	SUOX	TSTD1

@@ -1,0 +1,2 @@
+InlB-mediated entry of Listeria monocytogenes into host cell
+MET	UBB	RPS27A	CBL	UBC	STAM2	HGS	SH3GL3	EPS15	STAM	UBA52	SH3GL2	GRB2	SH3KBP1	SH3GL1

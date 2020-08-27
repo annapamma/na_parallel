@@ -1,0 +1,2 @@
+Chk1-Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex
+CHEK2	YWHAZ	SFN	YWHAB	CDK1	YWHAE	YWHAQ	CHEK1	CDC25C	YWHAH	YWHAG	WEE1	CCNB1

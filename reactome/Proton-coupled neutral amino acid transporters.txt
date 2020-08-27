@@ -1,0 +1,2 @@
+Proton-coupled neutral amino acid transporters
+SLC36A1	SLC36A2

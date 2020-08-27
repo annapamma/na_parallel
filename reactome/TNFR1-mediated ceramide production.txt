@@ -1,0 +1,2 @@
+TNFR1-mediated ceramide production
+NSMAF	TNFRSF1A	SMPD2	RACK1	SMPD3	TNF

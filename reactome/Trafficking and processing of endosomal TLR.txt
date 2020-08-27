@@ -1,0 +1,2 @@
+Trafficking and processing of endosomal TLR
+CTSB	TLR8	CTSS	CTSV	CTSL	CTSK	LGMN	UNC93B1	TLR9	CNPY3	TLR3	HSP90B1	TLR7

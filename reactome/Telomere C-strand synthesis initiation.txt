@@ -1,0 +1,2 @@
+Telomere C-strand synthesis initiation
+POLA2	POLE4	PRIM2	POLA1	POLE	PRIM1	POLE3	POLE2

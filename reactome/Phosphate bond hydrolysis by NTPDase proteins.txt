@@ -1,0 +1,2 @@
+Phosphate bond hydrolysis by NTPDase proteins
+ENTPD6	ENTPD1	ENTPD4	ENTPD7	ENTPD3	ENTPD8	ENTPD2	ENTPD5

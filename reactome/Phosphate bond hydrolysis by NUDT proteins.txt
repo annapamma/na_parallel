@@ -1,0 +1,2 @@
+Phosphate bond hydrolysis by NUDT proteins
+NUDT18	ADPRM	NUDT16	NUDT15	NUDT1	NUDT5	NUDT9

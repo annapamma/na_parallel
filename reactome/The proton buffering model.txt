@@ -1,0 +1,2 @@
+The proton buffering model
+SLC25A27	UCP3	SLC25A14	UCP1	UCP2

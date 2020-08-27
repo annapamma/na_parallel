@@ -1,0 +1,2 @@
+Synthesis of IPs in the nucleus
+IP6K1	IPPK	IPMK	IP6K2

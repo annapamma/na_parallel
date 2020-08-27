@@ -1,0 +1,2 @@
+Defective CHST14 causes EDS, musculocontractural type
+CSPG5	BCAN	CSPG4	VCAN	BGN	NCAN	DCN

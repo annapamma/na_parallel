@@ -1,0 +1,2 @@
+Synthesis of GDP-mannose
+PMM2	GMPPB	MPI	PMM1	GMPPA

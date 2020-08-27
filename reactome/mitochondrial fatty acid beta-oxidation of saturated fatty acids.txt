@@ -1,0 +1,2 @@
+mitochondrial fatty acid beta-oxidation of saturated fatty acids
+MECR	HADHB	ACADM	HADH	ACADVL	ACADL	ECHS1	HADHA	ACSM6	ACADS	ACSM3

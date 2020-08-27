@@ -1,0 +1,2 @@
+Regulation of gap junction activity
+TJP1	GJA1	SRC

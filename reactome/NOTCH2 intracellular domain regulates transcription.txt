@@ -1,0 +1,2 @@
+NOTCH2 intracellular domain regulates transcription
+HES1	CREB1	GZMB	FCER2	MAMLD1	MAML3	MAML1	MAML2	RBPJ	HES5	EP300	NOTCH2

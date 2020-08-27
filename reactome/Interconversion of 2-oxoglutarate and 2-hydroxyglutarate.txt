@@ -1,0 +1,2 @@
+Interconversion of 2-oxoglutarate and 2-hydroxyglutarate
+D2HGDH	L2HGDH	ADHFE1

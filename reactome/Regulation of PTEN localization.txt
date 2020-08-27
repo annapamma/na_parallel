@@ -1,0 +1,2 @@
+Regulation of PTEN localization
+UBB	RPS27A	USP7	UBC	UBA52	XIAP	PML	PTEN	NEDD4

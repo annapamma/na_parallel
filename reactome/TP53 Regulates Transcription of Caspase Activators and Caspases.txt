@@ -1,0 +1,2 @@
+TP53 Regulates Transcription of Caspase Activators and Caspases
+TP73	NLRC4	TP53	ATM	CASP1	CASP2	CASP10	CRADD	APAF1	CASP6	PIDD1	TP63

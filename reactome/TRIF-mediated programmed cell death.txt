@@ -1,0 +1,2 @@
+TRIF-mediated programmed cell death
+RIPK3	TICAM2	RIPK1	CASP8	TICAM1	TLR4	LY96	CD14	FADD

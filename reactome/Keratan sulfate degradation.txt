@@ -1,0 +1,2 @@
+Keratan sulfate degradation
+LUM	HEXA	OMD	GNS	OGN	PRELP	GLB1	FMOD	KERA	GLB1L	ACAN	HEXB

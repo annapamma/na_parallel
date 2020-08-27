@@ -1,0 +1,2 @@
+Platelet Adhesion to exposed collagen
+FYN	GP6	GP1BB	ITGA2	ITGA10	LYN	GP5	GP1BA	VWF	GP9	FCER1G	ITGA1	ITGB1

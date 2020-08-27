@@ -1,0 +1,2 @@
+Calcitonin-like ligand receptors
+RAMP1	CALCR	ADM	RAMP3	ADM2	CALCRL	RAMP2	IAPP	CALCA	CALCB

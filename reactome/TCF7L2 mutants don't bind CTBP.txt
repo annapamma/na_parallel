@@ -1,0 +1,2 @@
+TCF7L2 mutants don't bind CTBP
+CTBP2	TCF7L2	CTBP1

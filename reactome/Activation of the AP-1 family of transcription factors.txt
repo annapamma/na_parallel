@@ -1,0 +1,2 @@
+Activation of the AP-1 family of transcription factors
+MAPK8	MAPK9	MAPK14	MAPK11	ATF2	MAPK3	MAPK1	JUN	FOS	MAPK10

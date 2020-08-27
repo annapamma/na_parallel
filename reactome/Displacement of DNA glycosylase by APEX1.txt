@@ -1,0 +1,2 @@
+Displacement of DNA glycosylase by APEX1
+SMUG1	NTHL1	OGG1	APEX1	TDG	MUTYH	UNG	MPG	MBD4

@@ -1,0 +1,2 @@
+InlA-mediated entry of Listeria monocytogenes into host cells
+UBB	CBLL1	RPS27A	UBC	CTNNB1	SRC	UBA52	CTNND1	CDH1

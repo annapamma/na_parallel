@@ -1,0 +1,2 @@
+TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)
+UBB	TGFBR1	RPS27A	TGFBR2	UBC	TGFB1	CGN	FKBP1A	PRKCZ	PARD6A	UBA52	PARD3	SMURF1	ARHGEF18	RHOA	F11R

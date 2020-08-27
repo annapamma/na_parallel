@@ -1,0 +1,2 @@
+Polymerase switching on the C-strand of the telomere
+PCNA	POLA2	RFC5	RFC3	RFC2	PRIM2	POLA1	POLD3	POLD1	POLD2	PRIM1	RFC4	POLD4	RFC1

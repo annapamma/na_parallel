@@ -1,0 +1,2 @@
+Free fatty acid receptors
+FFAR4	FFAR1	FFAR2	FFAR3	GPR31

@@ -1,0 +1,2 @@
+TLR3-mediated TICAM1-dependent programmed cell death
+RIPK3	RIPK1	CASP8	TICAM1	TLR3	FADD

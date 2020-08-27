@@ -1,0 +1,2 @@
+Activation of NOXA and translocation to mitochondria
+E2F1	TP53	PMAIP1	TFDP1	TFDP2

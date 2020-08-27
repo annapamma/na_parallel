@@ -1,0 +1,2 @@
+Dopamine clearance from the synaptic cleft
+COMT	MAOA	SLC6A3	LRTOMT

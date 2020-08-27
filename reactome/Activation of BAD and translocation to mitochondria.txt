@@ -1,0 +1,2 @@
+Activation of BAD and translocation to mitochondria
+PPP3R1	BCL2	YWHAZ	SFN	YWHAB	AKT1	AKT3	BAD	AKT2	BID	PPP3CC	YWHAE	YWHAQ	YWHAH	YWHAG

@@ -1,0 +1,2 @@
+SLIT2:ROBO1 increases RHOA activity
+ROBO1	MYO9B	SLIT2	RHOA

@@ -1,0 +1,2 @@
+Import of palmitoyl-CoA into the mitochondrial matrix
+RXRA	CPT1B	PRKAB2	PPARD	THRSP	CPT1A	SLC25A20	PRKAA2	SLC22A5	PRKAG2	MID1IP1	CPT2

@@ -1,0 +1,2 @@
+FGFR1c and Klotho ligand binding and activation
+FGF23	FGFR1	KL

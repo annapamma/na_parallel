@@ -1,0 +1,2 @@
+RUNX2 regulates genes involved in differentiation of myeloid cells
+CBFB	LGALS3	RUNX2	RUNX1

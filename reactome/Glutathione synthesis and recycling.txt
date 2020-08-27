@@ -1,0 +1,2 @@
+Glutathione synthesis and recycling
+GGT3P	GGT1	CHAC2	GGCT	GGT6	GCLC	GCLM	GGT5	GGT7	CHAC1	OPLAH	GSS	CNDP2

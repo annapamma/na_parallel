@@ -1,0 +1,2 @@
+TWIK-releated acid-sensitive K+ channel (TASK)
+KCNK9	KCNK3

@@ -1,0 +1,2 @@
+CDC6 association with the ORC:origin complex
+E2F1	ORC1	ORC5	ORC2	MCM8	E2F2	CDC6	ORC3	E2F3	ORC4	ORC6

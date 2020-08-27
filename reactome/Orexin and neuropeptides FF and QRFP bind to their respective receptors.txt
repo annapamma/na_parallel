@@ -1,0 +1,2 @@
+Orexin and neuropeptides FF and QRFP bind to their respective receptors
+HCRTR1	NPFFR2	HCRTR2	QRFPR	NPFF	NPFFR1	QRFP	HCRT

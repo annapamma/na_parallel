@@ -1,0 +1,2 @@
+Beta oxidation of hexanoyl-CoA to butanoyl-CoA
+HADHB	HADH	ECHS1	HADHA	ACADS

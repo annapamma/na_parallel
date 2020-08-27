@@ -1,0 +1,2 @@
+Cross-presentation of particulate exogenous antigens (phagosomes)
+CYBB	ITGB5	ITGAV	CD36	NCF4	NCF1	CYBA	NCF2

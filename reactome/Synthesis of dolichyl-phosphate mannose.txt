@@ -1,0 +1,2 @@
+Synthesis of dolichyl-phosphate mannose
+DPM2	DPM1	DPM3

@@ -1,0 +1,2 @@
+Inositol transporters
+SLC2A13	SLC5A3	SLC5A11

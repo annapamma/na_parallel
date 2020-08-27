@@ -1,0 +1,2 @@
+Beta-oxidation of very long chain fatty acids
+ECI2	ABCD1	EHHADH	ACAA1	HSD17B4	ACOT4	MLYCD	ACOT6	DECR2	ACOX1	ACOT8

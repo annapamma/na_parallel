@@ -1,0 +1,2 @@
+SMAC-mediated apoptotic response
+DIABLO	CASP3	CASP9	CASP7	XIAP

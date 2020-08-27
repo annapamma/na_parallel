@@ -1,0 +1,2 @@
+Vitamin B1 (thiamin) metabolism
+SLC19A3	THTPA	SLC19A2	TPK1	SLC25A19

@@ -1,0 +1,2 @@
+Attachment of GPI anchor to uPAR
+PLAUR	GPAA1	PGAP1	PIGT	PIGS	PIGU	PIGK

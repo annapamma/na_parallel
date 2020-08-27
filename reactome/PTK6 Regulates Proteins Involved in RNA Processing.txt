@@ -1,0 +1,2 @@
+PTK6 Regulates Proteins Involved in RNA Processing
+KHDRBS2	PTK6	SFPQ	KHDRBS3	KHDRBS1

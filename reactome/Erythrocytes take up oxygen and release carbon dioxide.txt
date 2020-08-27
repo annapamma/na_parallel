@@ -1,0 +1,2 @@
+Erythrocytes take up oxygen and release carbon dioxide
+CA4	CA1	AQP1	CA2	HBA1	HBB	RHAG	SLC4A1

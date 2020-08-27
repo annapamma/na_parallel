@@ -1,0 +1,2 @@
+Toxicity of botulinum toxin type D (BoNT-D)
+VAMP2	SV2B	SV2C	VAMP1	SV2A

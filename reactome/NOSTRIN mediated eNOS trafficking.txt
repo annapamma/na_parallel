@@ -1,0 +1,2 @@
+NOSTRIN mediated eNOS trafficking
+WASL	NOS3	DNM2	CAV1	NOSTRIN

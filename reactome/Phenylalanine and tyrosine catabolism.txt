@@ -1,0 +1,2 @@
+Phenylalanine and tyrosine catabolism
+PCBD1	HPD	KYAT1	ASRGL1	TAT	IL4I1	HGD	QDPR	PAH	GSTZ1	FAH

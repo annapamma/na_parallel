@@ -1,0 +1,2 @@
+Digestion of dietary lipid
+PNLIPRP3	LIPF	CLPS	PNLIPRP1	PNLIP	PNLIPRP2	CEL

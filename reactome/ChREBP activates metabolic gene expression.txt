@@ -1,0 +1,2 @@
+ChREBP activates metabolic gene expression
+AGPAT1	MLXIPL	ACACA	PKLR	MLX	FASN	ACLY	ACACB

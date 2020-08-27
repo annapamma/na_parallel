@@ -1,0 +1,2 @@
+ARL13B-mediated ciliary trafficking of INPP5E
+PDE6D	ARL13B	INPP5E

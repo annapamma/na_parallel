@@ -1,0 +1,2 @@
+Phosphorylation of proteins involved in G1-S transition by active Cyclin E:Cdk2 complexes
+CCNE2	RB1	CDK2	CCNE1

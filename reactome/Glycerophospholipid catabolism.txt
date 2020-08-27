@@ -1,0 +1,2 @@
+Glycerophospholipid catabolism
+GDPD1	GDE1	GDPD5	ENPP6	PNPLA7	GDPD3	PNPLA6

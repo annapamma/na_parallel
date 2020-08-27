@@ -1,0 +1,2 @@
+Degradation of cysteine and homocysteine
+SQOR	ETHE1	SUOX	TST	SLC25A10	CDO1	CSAD	CTH	ADO	TSTD1

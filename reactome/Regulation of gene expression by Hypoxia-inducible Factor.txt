@@ -1,0 +1,2 @@
+Regulation of gene expression by Hypoxia-inducible Factor
+HIF3A	CA9	EPAS1	VEGFA	ARNT	HIF1A	CITED2	EP300	HIGD1A	EPO	CREBBP

@@ -1,0 +1,2 @@
+Establishment of Sister Chromatid Cohesion
+STAG2	SMC3	STAG1	ESCO1	SMC1A	RAD21	PDS5B	CDCA5	ESCO2	WAPL	PDS5A

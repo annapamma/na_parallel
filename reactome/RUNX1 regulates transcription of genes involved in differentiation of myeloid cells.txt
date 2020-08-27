@@ -1,0 +1,2 @@
+RUNX1 regulates transcription of genes involved in differentiation of myeloid cells
+CBFB	CSF2	LGALS3	RUNX1	PRKCB	RUNX2	CREBBP

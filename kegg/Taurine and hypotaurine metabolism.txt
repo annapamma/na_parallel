@@ -1,0 +1,2 @@
+Taurine and hypotaurine metabolism
+GGT1	GADL1	GAD2	GGT6	GAD1	CDO1	GGT5	CSAD	GGT7	ADO	BAAT

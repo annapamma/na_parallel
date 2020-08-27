@@ -1,0 +1,2 @@
+Negative feedback regulation of MAPK pathway
+MAP2K2	BRAF	MAPK3	MAP2K1	MAPK1	RAF1

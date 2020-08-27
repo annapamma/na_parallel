@@ -1,0 +1,2 @@
+Lectin pathway of complement activation
+COLEC10	FCN2	MASP1	FCN1	MBL2	MASP2	FCN3	COLEC11

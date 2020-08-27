@@ -1,0 +1,2 @@
+AMPK inhibits chREBP transcriptional activation activity
+PRKAB2	ADIPOR1	ADIPOR2	MLXIPL	PRKAA2	PRKAG2	STK11	ADIPOQ

@@ -1,0 +1,2 @@
+RUNX3 regulates BCL2L11 (BIM) transcription
+FOXO3	SMAD4	SMAD3	RUNX3	BCL2L11

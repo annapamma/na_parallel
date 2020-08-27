@@ -1,0 +1,2 @@
+Gamma-carboxylation of protein precursors
+PROS1	F7	GGCX	F10	GAS6	PROZ	BGLAP	F9	F2	PROC

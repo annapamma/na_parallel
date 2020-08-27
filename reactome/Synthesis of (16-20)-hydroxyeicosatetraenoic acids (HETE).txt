@@ -1,0 +1,2 @@
+Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE)
+CYP2C19	CYP2C8	CYP1B1	CYP1A2	CYP4A11	CYP2U1	CYP1A1	CYP2C9	CYP4F2

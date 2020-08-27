@@ -1,0 +1,2 @@
+Catabolism of glucuronate to xylulose-5-phosphate
+AKR1A1	SORD	XYLB	DCXR	CRYL1

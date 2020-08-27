@@ -1,0 +1,2 @@
+PTK6 Regulates Cell Cycle
+CDK4	CCND1	CCNE1	CDKN1B	PTK6	CDK2

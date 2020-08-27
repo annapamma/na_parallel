@@ -1,0 +1,2 @@
+Negative regulation of TCF-dependent signaling by WNT ligand antagonists
+WNT9A	WIF1	WNT3A	KREMEN1	WNT5A	DKK4	WNT4	SFRP2	LRP5	SOST	DKK1	LRP6	DKK2	KREMEN2	SFRP1

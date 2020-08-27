@@ -1,0 +1,2 @@
+Vitamin B2 (riboflavin) metabolism
+SLC52A2	SLC52A1	SLC52A3	ACP5	ENPP1	RFK	FLAD1

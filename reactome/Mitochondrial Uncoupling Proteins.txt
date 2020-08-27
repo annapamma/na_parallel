@@ -1,0 +1,2 @@
+Mitochondrial Uncoupling Proteins
+SLC25A27	UCP3	SLC25A14	UCP1	UCP2

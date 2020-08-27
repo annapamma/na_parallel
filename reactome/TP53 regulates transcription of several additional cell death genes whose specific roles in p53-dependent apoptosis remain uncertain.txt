@@ -1,0 +1,2 @@
+TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain
+RABGGTB	TP73	TP53	NDRG1	PERP	TP53BP2	PPP1R13B	BCL6	BIRC5	TP53I3	CHM	BCL2L14	RABGGTA	TP63

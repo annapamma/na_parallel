@@ -1,0 +1,2 @@
+Regulation of pyruvate dehydrogenase (PDH) complex
+RXRA	DLAT	PPARD	PDK1	PDHB	PDPR	PDP1	DLD	PDK3	PDP2	PDHX	PDK2	PDHA2	PDK4	PDHA1

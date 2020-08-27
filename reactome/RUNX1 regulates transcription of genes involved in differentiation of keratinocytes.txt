@@ -1,0 +1,2 @@
+RUNX1 regulates transcription of genes involved in differentiation of keratinocytes
+CBFB	CTSV	SOCS3	SOCS4	CTSL	RUNX1	CTSK	SERPINB13

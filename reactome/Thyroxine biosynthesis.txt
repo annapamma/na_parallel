@@ -1,0 +1,2 @@
+Thyroxine biosynthesis
+CGA	DIO1	DIO2	TPO	IYD	DUOX2	TSHB	SLC5A5	DIO3	DUOX1

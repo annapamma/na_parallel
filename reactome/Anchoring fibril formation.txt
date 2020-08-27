@@ -1,0 +1,2 @@
+Anchoring fibril formation
+BMP1	LAMC2	COL7A1	TLL1	LAMB3	LAMA3	TLL2

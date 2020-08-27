@@ -1,0 +1,2 @@
+Inhibition of TSC complex formation by PKB
+TSC1	AKT2	TSC2

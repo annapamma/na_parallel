@@ -1,0 +1,2 @@
+RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)
+CBFB	TNFRSF18	NFATC2	CR1	IL2RA	RUNX1	IFNG	FOXP3	IL2	CTLA4

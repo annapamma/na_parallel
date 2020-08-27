@@ -1,0 +1,2 @@
+Gap junction degradation
+DAB2	AP2M1	CLTA	GJA1	MYO6	CLTC	DNM2	CLTB	CLTCL1	DNM1

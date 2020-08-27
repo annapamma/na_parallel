@@ -1,0 +1,2 @@
+PKB-mediated events
+PDE3B	AKT2

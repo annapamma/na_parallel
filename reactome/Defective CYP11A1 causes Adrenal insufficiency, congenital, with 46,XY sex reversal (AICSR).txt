@@ -1,0 +1,2 @@
+Defective CYP11A1 causes Adrenal insufficiency, congenital, with 46,XY sex reversal (AICSR)
+FDX1	CYP11A1	FDXR	FDX2

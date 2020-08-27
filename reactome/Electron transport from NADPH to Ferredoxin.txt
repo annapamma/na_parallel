@@ -1,0 +1,2 @@
+Electron transport from NADPH to Ferredoxin
+FDX1	FDXR	FDX2

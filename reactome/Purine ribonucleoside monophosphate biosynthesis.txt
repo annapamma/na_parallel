@@ -1,0 +1,2 @@
+Purine ribonucleoside monophosphate biosynthesis
+IMPDH1	IMPDH2	GART	ADSSL1	ATIC	ADSS	GMPS	PAICS	ADSL	LHPP	PPAT	PFAS

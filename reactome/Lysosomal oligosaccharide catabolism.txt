@@ -1,0 +1,2 @@
+Lysosomal oligosaccharide catabolism
+MAN2B1	MAN2C1	MAN2B2	MANBA

@@ -1,0 +1,2 @@
+Reactions specific to the hybrid N-glycan synthesis pathway
+MGAT3

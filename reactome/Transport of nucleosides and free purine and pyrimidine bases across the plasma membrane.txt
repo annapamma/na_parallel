@@ -1,0 +1,2 @@
+Transport of nucleosides and free purine and pyrimidine bases across the plasma membrane
+SLC28A2	SLC28A1	SLC28A3	SLC29A1	SLC29A4	SLC29A3	SLC29A2

@@ -1,0 +1,2 @@
+Glycosphingolipid biosynthesis - globo and isoglobo series
+FUT2	HEXA	ST3GAL1	FUT9	NAGA	B3GALT5	A4GALT	GBGT1	ST8SIA1	FUT1	HEXB	B3GALNT1	GLA	ST3GAL2	A3GALT2

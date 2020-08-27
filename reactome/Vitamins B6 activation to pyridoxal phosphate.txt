@@ -1,0 +1,2 @@
+Vitamins B6 activation to pyridoxal phosphate
+AOX1	PNPO	PDXK

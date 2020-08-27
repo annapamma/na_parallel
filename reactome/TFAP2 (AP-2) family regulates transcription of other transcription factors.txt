@@ -1,0 +1,2 @@
+TFAP2 (AP-2) family regulates transcription of other transcription factors
+CITED2	TFAP2A	PITX2	TFAP2C

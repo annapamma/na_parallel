@@ -1,0 +1,2 @@
+Phase 1 - inactivation of fast Na+ channels
+KCNIP2	KCND1	KCND2	KCNIP1	KCNIP3	KCND3	KCNIP4

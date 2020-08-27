@@ -1,0 +1,2 @@
+Neurotransmitter uptake and metabolism In glial cells
+SLC1A2	SLC38A1	SLC1A3	GLUL

@@ -1,0 +1,2 @@
+Association of licensing factors with the pre-replicative complex
+E2F1	UBB	GMNN	RPS27A	ORC1	UBC	ORC5	ORC2	CDT1	E2F2	CDC6	ORC3	UBA52	E2F3	ORC4

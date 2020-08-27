@@ -1,0 +1,2 @@
+Alpha-oxidation of phytanate
+ALDH3A2	SLC25A17	PECR	PHYH	HACL1	SLC27A2

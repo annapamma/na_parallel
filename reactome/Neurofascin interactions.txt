@@ -1,0 +1,2 @@
+Neurofascin interactions
+SDCBP	DCX	NRCAM	CNTNAP1	CNTN1	ANK1	NFASC

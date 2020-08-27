@@ -1,0 +1,2 @@
+MET Receptor Activation
+MET	SPINT2	HPN	HGF	SPINT1	HGFAC

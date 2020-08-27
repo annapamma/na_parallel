@@ -1,0 +1,2 @@
+phospho-PLA2 pathway
+MAPK1	PLA2G4A

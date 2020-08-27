@@ -1,0 +1,2 @@
+CREB phosphorylation through the activation of Adenylate Cyclase
+PRKACB	ADCY8	CREB1	ADCY1	PRKACA	ADCY3	PRKACG

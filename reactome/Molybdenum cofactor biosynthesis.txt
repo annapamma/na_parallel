@@ -1,0 +1,2 @@
+Molybdenum cofactor biosynthesis
+GPHN	MOCOS	MOCS1	NFS1	MOCS2	MOCS3

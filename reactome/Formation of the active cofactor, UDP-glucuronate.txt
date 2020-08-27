@@ -1,0 +1,2 @@
+Formation of the active cofactor, UDP-glucuronate
+UGP2	UGDH	SLC35D1

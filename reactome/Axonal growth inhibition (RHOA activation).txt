@@ -1,0 +1,2 @@
+Axonal growth inhibition (RHOA activation)
+ARHGDIA	MCF2	NGFR	OMG	MAG	RTN4	RHOA	LINGO1

@@ -1,0 +1,2 @@
+TRAF3 deficiency - HSE
+TLR3	TICAM1	TRAF3

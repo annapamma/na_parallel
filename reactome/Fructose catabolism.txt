@@ -1,0 +1,2 @@
+Fructose catabolism
+GLYCTK	ALDH1A1	TKFC	ALDOB	KHK

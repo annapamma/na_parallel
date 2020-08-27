@@ -1,0 +1,2 @@
+Synthesis and degradation of ketone bodies
+HMGCLL1	OXCT2	HMGCL	HMGCS1	ACAT1	HMGCS2	BDH1	ACAT2	OXCT1	BDH2

@@ -1,0 +1,2 @@
+Negative regulation of activity of TFAP2 (AP-2) family transcription factors
+KCTD1	UBE2I	TFAP2B	KCTD15	TFAP2A	TFAP2C	TFAP2E	WWOX	TFAP2D	SUMO1

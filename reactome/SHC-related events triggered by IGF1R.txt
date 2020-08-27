@@ -1,0 +1,2 @@
+SHC-related events triggered by IGF1R
+KRAS	NRAS	SHC1	IGF2	IGF1	HRAS	SOS1	GRB2	IGF1R

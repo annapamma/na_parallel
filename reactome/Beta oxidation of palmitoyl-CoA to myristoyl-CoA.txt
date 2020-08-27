@@ -1,0 +1,2 @@
+Beta oxidation of palmitoyl-CoA to myristoyl-CoA
+ACADVL	HADHB	HADHA

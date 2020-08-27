@@ -1,0 +1,2 @@
+Misspliced LRP5 mutants have enhanced beta-catenin-dependent signaling
+KREMEN1	DKK4	LRP5	DKK1	DKK2	KREMEN2

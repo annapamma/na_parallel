@@ -1,0 +1,2 @@
+POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation
+TSC22D1	CDX2	POU5F1	NANOG	SOX2	GATA6	HHEX	GSC	DKK1	EOMES

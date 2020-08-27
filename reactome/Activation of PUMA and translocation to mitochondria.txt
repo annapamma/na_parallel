@@ -1,0 +1,2 @@
+Activation of PUMA and translocation to mitochondria
+E2F1	TP73	TP53	TP53BP2	PPP1R13B	BBC3	TFDP1	TFDP2	TP63

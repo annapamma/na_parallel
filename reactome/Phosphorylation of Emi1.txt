@@ -1,0 +1,2 @@
+Phosphorylation of Emi1
+FZR1	FBXO5	CDK1	CDC20	PLK1	CCNB1

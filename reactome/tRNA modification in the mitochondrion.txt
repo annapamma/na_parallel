@@ -1,0 +1,2 @@
+tRNA modification in the mitochondrion
+PUS1	TRIT1	TRMT61B	MTO1	GTPBP3	TRMU	HSD17B10	TRMT10C

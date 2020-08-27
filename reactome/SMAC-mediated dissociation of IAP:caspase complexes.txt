@@ -1,0 +1,2 @@
+SMAC-mediated dissociation of IAP:caspase complexes
+DIABLO	CASP3	CASP9	CASP7	XIAP

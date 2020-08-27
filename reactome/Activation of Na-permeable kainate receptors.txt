@@ -1,0 +1,2 @@
+Activation of Na-permeable kainate receptors
+GRIK2	GRIK1

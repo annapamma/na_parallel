@@ -1,0 +1,2 @@
+Mitochondrial iron-sulfur cluster biogenesis
+FXN	FDXR	FDX2	SLC25A28	GLRX5	LYRM4	ISCA1	SLC25A37	ISCU	FDX1	NFS1	HSCB	ISCA2

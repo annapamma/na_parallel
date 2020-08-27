@@ -1,0 +1,2 @@
+Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)
+CYP2C19	CYP2C8	CYP1B1	CYP1A2	EPHX2	CYP2J2	CYP1A1	CYP2C9

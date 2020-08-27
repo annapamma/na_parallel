@@ -1,0 +1,2 @@
+SMAD2-3 Phosphorylation Motif Mutants in Cancer
+TGFBR1	TGFBR2	ZFYVE9	SMAD3	TGFB1	SMAD2

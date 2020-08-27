@@ -1,0 +1,2 @@
+ARMS-mediated activation
+YWHAB	NGF	BRAF	RAP1A	KIDINS220	CRK	NTRK1

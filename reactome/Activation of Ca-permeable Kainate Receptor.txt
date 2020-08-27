@@ -1,0 +1,2 @@
+Activation of Ca-permeable Kainate Receptor
+DLG1	GRIK2	DLG3	GRIK5	GRIK1	GRIK3	GRIK4	NCALD	DLG4	CALM1

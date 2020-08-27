@@ -1,0 +1,2 @@
+Arachidonate production from DAG
+DAGLA	MGLL	ABHD6	ABHD12	DAGLB

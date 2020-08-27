@@ -1,0 +1,2 @@
+Ionotropic activity of kainate receptors
+DLG1	GRIK2	DLG3	GRIK5	GRIK1	GRIK3	GRIK4	NCALD	DLG4	CALM1

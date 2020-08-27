@@ -1,0 +1,2 @@
+Activation of AMPA receptors
+GRIA2	GRIA3	GRIA1	GRIA4

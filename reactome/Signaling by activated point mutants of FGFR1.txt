@@ -1,0 +1,2 @@
+Signaling by activated point mutants of FGFR1
+FGF8	FGF17	FGF23	FGF5	FGFR1	FGF1	FGF6	FGF2	FGF9	FGF20	FGF4

@@ -1,0 +1,2 @@
+PLC-mediated hydrolysis of PIP2
+SYK	PLCG2	CLEC1B	PDPN

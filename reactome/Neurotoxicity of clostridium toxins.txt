@@ -1,0 +1,2 @@
+Neurotoxicity of clostridium toxins
+VAMP2	STX1A	SV2B	SYT1	SV2C	STX1B	VAMP1	SNAP25	SYT2	SV2A

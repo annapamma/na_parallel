@@ -1,0 +1,2 @@
+G2-M DNA replication checkpoint
+CCNB2	CDK1	PKMYT1	WEE1	CCNB1

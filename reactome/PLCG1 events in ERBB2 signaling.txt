@@ -1,0 +1,2 @@
+PLCG1 events in ERBB2 signaling
+EGFR	PLCG1	EGF	ERBB2

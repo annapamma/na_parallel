@@ -1,0 +1,2 @@
+SUMO is proteolytically processed
+SUMO2	SENP1	SUMO3	SENP5	SENP2	SUMO1

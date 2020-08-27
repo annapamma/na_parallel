@@ -1,0 +1,2 @@
+RUNX2 regulates genes involved in cell migration
+CBFB	MMP13	AKT3	AKT1	AKT2	RUNX2	ITGBL1	ITGA5

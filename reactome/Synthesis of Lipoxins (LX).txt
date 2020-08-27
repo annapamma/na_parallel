@@ -1,0 +1,2 @@
+Synthesis of Lipoxins (LX)
+ALOX5	PTGR1	LTC4S	ALOX5AP	ALOX12	HPGD

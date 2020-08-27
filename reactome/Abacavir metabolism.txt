@@ -1,0 +1,2 @@
+Abacavir metabolism
+PCK1	ADH1A	ADAL	NT5C2	GUK1

@@ -1,0 +1,2 @@
+Caspase-mediated cleavage of cytoskeletal proteins
+ADD1	PLEC	SPTAN1	DBNL	CASP3	CASP8	MAPT	GSN	GAS2	CASP7	CASP6	VIM

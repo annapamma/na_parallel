@@ -1,0 +1,2 @@
+Synthesis of 5-eicosatetraenoic acids
+ALOX5	GPX1	PON2	PON3	PON1	LTC4S	ALOX5AP	GPX2	GPX4

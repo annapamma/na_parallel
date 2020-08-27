@@ -1,0 +1,2 @@
+Proton-coupled monocarboxylate transport
+BSG	SLC16A3	SLC16A8	EMB	SLC16A1	SLC16A7

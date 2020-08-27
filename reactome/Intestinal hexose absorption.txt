@@ -1,0 +1,2 @@
+Intestinal hexose absorption
+RSC1A1	SLC2A2	SLC5A1	SLC2A5

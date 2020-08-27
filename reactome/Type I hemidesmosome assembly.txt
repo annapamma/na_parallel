@@ -1,0 +1,2 @@
+Type I hemidesmosome assembly
+ITGA6	COL17A1	PLEC	CD151	LAMC2	DST	LAMB3	LAMA3	ITGB4

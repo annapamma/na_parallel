@@ -1,0 +1,2 @@
+GRB2 events in EGFR signaling
+KRAS	NRAS	EGF	EGFR	HRAS	SOS1	GRB2

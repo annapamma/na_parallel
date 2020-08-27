@@ -1,0 +1,2 @@
+Tandem of pore domain in a weak inwardly rectifying K+ channels (TWIK)
+KCNK7	KCNK1	KCNK6

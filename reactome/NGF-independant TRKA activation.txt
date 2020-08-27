@@ -1,0 +1,2 @@
+NGF-independant TRKA activation
+NTRK2	NTRK1	ADCYAP1R1	ADCYAP1	ADORA2A

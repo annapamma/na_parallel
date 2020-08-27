@@ -1,0 +1,2 @@
+SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion
+FYN	RAC1	RRAS	RND1	PIP5K1C	PLXNA3	PLXNA4	NRP1	TLN1	FES	SEMA3A	PLXNA2	PLXNA1	FARP2

@@ -1,0 +1,2 @@
+Vpr-mediated induction of apoptosis by mitochondrial outer membrane permeabilization
+SLC25A6	ANKHD1	SLC25A5	SLC25A4

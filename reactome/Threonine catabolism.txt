@@ -1,0 +1,2 @@
+Threonine catabolism
+GCAT	TDH

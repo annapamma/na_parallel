@@ -1,0 +1,2 @@
+STAT6-mediated induction of chemokines
+STAT6	TBK1	TMEM173

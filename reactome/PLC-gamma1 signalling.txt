@@ -1,0 +1,2 @@
+PLC-gamma1 signalling
+NGF	PLCG1	NTRK1

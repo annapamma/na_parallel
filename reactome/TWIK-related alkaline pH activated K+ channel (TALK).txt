@@ -1,0 +1,2 @@
+TWIK-related alkaline pH activated K+ channel (TALK)
+KCNK17	KCNK16

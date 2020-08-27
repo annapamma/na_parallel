@@ -1,0 +1,2 @@
+Conjugation of salicylate with glycine
+GLYATL2	GLYAT	GLYATL3	GLYATL1	ACSM2A	ACSM2B	ACSM5	ACSM4

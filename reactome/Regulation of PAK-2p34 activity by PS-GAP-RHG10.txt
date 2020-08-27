@@ -1,0 +1,2 @@
+Regulation of PAK-2p34 activity by PS-GAP-RHG10
+ARHGAP10	PAK2

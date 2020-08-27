@@ -1,0 +1,2 @@
+Caffeine metabolism
+CYP1A2	NAT1	XDH	NAT2	CYP2A6

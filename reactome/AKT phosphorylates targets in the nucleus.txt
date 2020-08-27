@@ -1,0 +1,2 @@
+AKT phosphorylates targets in the nucleus
+FOXO3	CREB1	AKT3	AKT1	AKT2	FOXO4	RPS6KB2	NR4A1	FOXO1

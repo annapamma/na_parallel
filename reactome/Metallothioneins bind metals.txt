@@ -1,0 +1,2 @@
+Metallothioneins bind metals
+MT1E	MT1M	MT1X	MT1F	MT2A	MT1G	MT1A	MT1H	MT4	MT3	MT1B

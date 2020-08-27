@@ -1,0 +1,2 @@
+Sperm:Oocyte Membrane Binding
+IZUMO1	IZUMO2	IZUMO4	CD9	IZUMO3

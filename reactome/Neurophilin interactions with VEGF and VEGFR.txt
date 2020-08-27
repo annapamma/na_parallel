@@ -1,0 +1,2 @@
+Neurophilin interactions with VEGF and VEGFR
+KDR	NRP1	FLT1	NRP2

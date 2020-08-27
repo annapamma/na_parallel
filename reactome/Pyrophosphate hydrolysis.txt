@@ -1,0 +1,2 @@
+Pyrophosphate hydrolysis
+PPA1	PPA2

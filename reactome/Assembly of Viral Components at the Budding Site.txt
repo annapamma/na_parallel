@@ -1,0 +1,2 @@
+Assembly of Viral Components at the Budding Site
+ATP1A1	CANX	ABCB8	GSTA2	PNP	CALR

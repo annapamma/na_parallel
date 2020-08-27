@@ -1,0 +1,2 @@
+Sodium-coupled phosphate cotransporters
+SLC34A3	SLC34A1	SLC34A2	SLC20A1	SLC20A2

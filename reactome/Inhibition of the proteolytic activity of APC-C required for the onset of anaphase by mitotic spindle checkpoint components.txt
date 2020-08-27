@@ -1,0 +1,2 @@
+Inhibition of the proteolytic activity of APC-C required for the onset of anaphase by mitotic spindle checkpoint components
+CDC20	ANAPC15	ANAPC1	UBE2C	UBE2D1	CDC27	MAD2L1	ANAPC10	CDC16	BUB3	ANAPC4	CDC26	CDC23	ANAPC11	UBE2E1	BUB1B	ANAPC16	ANAPC5	ANAPC7	ANAPC2

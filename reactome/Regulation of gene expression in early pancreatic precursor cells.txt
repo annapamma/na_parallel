@@ -1,0 +1,2 @@
+Regulation of gene expression in early pancreatic precursor cells
+PTF1A	PDX1	NKX6-1	ONECUT1	NR5A2	HNF1B	ONECUT3	FGF10

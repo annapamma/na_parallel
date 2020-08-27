@@ -1,0 +1,2 @@
+Negative regulation of TCF-dependent signaling by DVL-interacting proteins
+DVL2	CXXC4	DVL3	CCDC88C	DVL1

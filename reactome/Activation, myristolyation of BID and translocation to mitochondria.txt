@@ -1,0 +1,2 @@
+Activation, myristolyation of BID and translocation to mitochondria
+CASP8	NMT1	BID	GZMB

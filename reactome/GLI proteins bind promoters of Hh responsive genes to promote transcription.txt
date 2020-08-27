@@ -1,0 +1,2 @@
+GLI proteins bind promoters of Hh responsive genes to promote transcription
+BOC	HHIP	PTCH1	GLI3	GLI2	PTCH2	GLI1

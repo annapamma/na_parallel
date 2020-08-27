@@ -1,0 +1,2 @@
+Phenylalanine, tyrosine and tryptophan biosynthesis
+GOT1	IL4I1	GOT2	PAH	TAT

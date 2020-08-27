@@ -1,0 +1,2 @@
+PKA-mediated phosphorylation of key metabolic factors
+PRKACB	PRKACA	MLXIPL	PFKFB1	PRKACG

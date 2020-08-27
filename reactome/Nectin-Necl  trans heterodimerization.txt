@@ -1,0 +1,2 @@
+Nectin-Necl  trans heterodimerization
+NECTIN2	NECTIN1	CADM1	NECTIN4	CADM3	NECTIN3	PVR

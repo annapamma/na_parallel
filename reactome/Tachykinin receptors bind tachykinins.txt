@@ -1,0 +1,2 @@
+Tachykinin receptors bind tachykinins
+TAC1	TACR1	TACR2	TACR3	TAC3

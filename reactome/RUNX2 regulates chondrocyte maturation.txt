@@ -1,0 +1,2 @@
+RUNX2 regulates chondrocyte maturation
+CBFB	HDAC4	IHH	GLI2	RUNX2

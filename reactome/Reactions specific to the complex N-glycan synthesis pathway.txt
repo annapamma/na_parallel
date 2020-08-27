@@ -1,0 +1,2 @@
+Reactions specific to the complex N-glycan synthesis pathway
+CGA	FUCA1	FUT3	LHB	CHST10	MGAT2	FUT8	MAN2A1	MAN2A2	CHST8

@@ -1,0 +1,2 @@
+Synthesis of 12-eicosatetraenoic acid derivatives
+GPX1	ALOX15	GPX2	ALOX12	ALOX12B	GPX4	ALOXE3

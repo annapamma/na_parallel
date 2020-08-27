@@ -1,0 +1,2 @@
+Vitamin C (ascorbate) metabolism
+CYB5R3	GSTO1	SLC2A3	GSTO2	SLC23A1	CYB5A	SLC2A1	SLC23A2

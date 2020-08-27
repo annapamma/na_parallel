@@ -1,0 +1,2 @@
+SUMO is conjugated to E1 (UBA2:SAE1)
+SUMO2	SAE1	UBA2	SUMO3	SUMO1

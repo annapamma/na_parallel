@@ -1,0 +1,2 @@
+Apoptotic factor-mediated response
+DIABLO	CASP3	CASP9	APAF1	CASP7	XIAP	CYCS

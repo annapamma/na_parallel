@@ -1,0 +1,2 @@
+Ion influx-efflux at host-pathogen interface
+ATOX1	SLC11A1	ATP7A	PDZD11

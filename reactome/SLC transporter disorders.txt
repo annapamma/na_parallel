@@ -1,0 +1,2 @@
+SLC transporter disorders
+AVPR2	GCK	GCKR	AVP	AVPR1A	ALB	AVPR1B

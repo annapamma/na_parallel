@@ -1,0 +1,2 @@
+Gamma-carboxylation, transport, and amino-terminal cleavage of proteins
+PROS1	FURIN	F7	GGCX	F10	GAS6	PROZ	BGLAP	F9	F2	PROC

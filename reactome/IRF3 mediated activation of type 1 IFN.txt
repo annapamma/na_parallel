@@ -1,0 +1,2 @@
+IRF3 mediated activation of type 1 IFN
+DTX4	TBK1	NLRP4	ZBP1	IRF3

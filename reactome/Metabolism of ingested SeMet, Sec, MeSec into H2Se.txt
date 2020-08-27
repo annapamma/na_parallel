@@ -1,0 +1,2 @@
+Metabolism of ingested SeMet, Sec, MeSec into H2Se
+NNMT	MAT1A	AHCY	HNMT	CBS	GNMT	CTH	SCLY

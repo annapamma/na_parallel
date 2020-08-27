@@ -1,0 +1,2 @@
+FasL- CD95L signaling
+CASP8	FAS	CASP10	FASLG	FADD

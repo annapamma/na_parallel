@@ -1,0 +1,2 @@
+betaKlotho-mediated ligand binding
+FGFR4	FGF19	KLB

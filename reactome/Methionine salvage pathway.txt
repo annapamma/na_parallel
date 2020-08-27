@@ -1,0 +1,2 @@
+Methionine salvage pathway
+ADI1	MRI1	GOT1	MTAP	APIP	ENOPH1

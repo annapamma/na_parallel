@@ -1,0 +1,2 @@
+Toxicity of botulinum toxin type C (BoNT-C)
+SNAP25	STX1A	STX1B

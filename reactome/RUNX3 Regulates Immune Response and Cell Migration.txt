@@ -1,0 +1,2 @@
+RUNX3 Regulates Immune Response and Cell Migration
+CBFB	SPP1	ITGA4	RORC	RUNX3	ITGAL

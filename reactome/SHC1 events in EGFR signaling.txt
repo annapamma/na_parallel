@@ -1,0 +1,2 @@
+SHC1 events in EGFR signaling
+KRAS	NRAS	SHC1	EGF	EGFR	HRAS	SOS1	GRB2

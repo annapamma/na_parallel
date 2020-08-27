@@ -1,0 +1,2 @@
+Synthesis of diphthamide-EEF2
+DPH1	DNAJC24	DPH6	DPH7	DPH2	DPH5	DPH3	EEF2

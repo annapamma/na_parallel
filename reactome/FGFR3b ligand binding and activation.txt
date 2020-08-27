@@ -1,0 +1,2 @@
+FGFR3b ligand binding and activation
+FGF8	FGF17	FGF20	FGF1	FGFR3	FGF9	FGF18

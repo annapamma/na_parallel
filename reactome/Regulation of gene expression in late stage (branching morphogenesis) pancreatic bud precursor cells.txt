@@ -1,0 +1,2 @@
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells
+HES1	NOTCH1	RBPJ	ONECUT1	HNF1B	ONECUT3	NEUROG3

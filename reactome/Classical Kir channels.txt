@@ -1,0 +1,2 @@
+Classical Kir channels
+KCNJ2	KCNJ14	KCNJ4	KCNJ12

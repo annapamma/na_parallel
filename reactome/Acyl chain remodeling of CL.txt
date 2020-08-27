@@ -1,0 +1,2 @@
+Acyl chain remodeling of CL
+HADHB	PLA2G6	HADHA	LCLAT1	TAZ	PLA2G4A

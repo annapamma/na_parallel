@@ -1,0 +1,2 @@
+Leukotriene receptors
+CYSLTR1	LTB4R2	LTB4R	CYSLTR2	GPR17

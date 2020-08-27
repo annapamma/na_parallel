@@ -1,0 +1,2 @@
+Binding of TCF-LEF:CTNNB1 to target gene promoters
+TCF7	TCF7L1	CTNNB1	AXIN2	MYC	RUNX3	TCF7L2	LEF1

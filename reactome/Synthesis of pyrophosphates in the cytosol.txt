@@ -1,0 +1,2 @@
+Synthesis of pyrophosphates in the cytosol
+IPPK	IP6K3	ITPK1	PPIP5K2	NUDT10	IP6K1	PPIP5K1	NUDT4	NUDT11	NUDT3

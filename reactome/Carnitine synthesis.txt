@@ -1,0 +1,2 @@
+Carnitine synthesis
+TMLHE	BBOX1	SHMT1	ALDH9A1

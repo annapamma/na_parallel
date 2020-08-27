@@ -1,0 +1,2 @@
+Interleukin-1 processing
+IL1B	NFKB1	CASP1	NFKB2	IL1A	RELA	IL18

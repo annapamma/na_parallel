@@ -1,0 +1,2 @@
+Cholesterol biosynthesis via desmosterol
+DHCR7	SC5D	EBP	DHCR24

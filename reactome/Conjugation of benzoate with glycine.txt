@@ -1,0 +1,2 @@
+Conjugation of benzoate with glycine
+GLYATL2	GLYAT	GLYATL3	GLYATL1	ACSM2B	ACSM1

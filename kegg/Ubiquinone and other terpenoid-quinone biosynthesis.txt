@@ -1,0 +1,2 @@
+Ubiquinone and other terpenoid-quinone biosynthesis
+NQO1	COQ3	COQ5	GGCX	COQ7	COQ6	VKORC1L1	COQ2	VKORC1	TAT	HPD

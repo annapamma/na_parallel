@@ -1,0 +1,2 @@
+Synthesis of wybutosine at G37 of tRNA(Phe)
+TYW5	TRMT12	TRMT5	TYW3	TYW1	LCMT2

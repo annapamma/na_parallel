@@ -1,0 +1,2 @@
+Hypusine synthesis from eIF5A-lysine
+EIF5A2	DOHH	DHPS	EIF5A
