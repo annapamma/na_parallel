@@ -9,6 +9,7 @@ jobs:
         type: string
         default: 'kegg'
     resource_class: small
+    parallelism: 10
     steps:
       - checkout
       - run: echo << parameters.pw_db >>
