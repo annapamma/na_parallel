@@ -7,7 +7,7 @@ jobs:
     parameters:
       pw_db:
         type: string
-        default: kegg
+        default: 'kegg'
     resource_class: small
     steps:
       - run: echo << parameters.pw_db >>
