@@ -15,3 +15,8 @@ jobs:
           circleci tests glob << parameters.pw_db >>/** | circleci tests split > /tmp/tests-to-run
           cat /tmp/tests-to-run
 
+workflows:
+  test:
+    jobs:
+      - build:
+          pw_db: 'xcell'
