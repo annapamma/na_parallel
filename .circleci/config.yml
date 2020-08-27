@@ -10,9 +10,10 @@ jobs:
         default: 'kegg'
     resource_class: small
     steps:
+      - checkout
       - run: echo << parameters.pw_db >>
       - run: |
-          circleci tests glob << parameters.pw_db >>/** | circleci tests split > /tmp/tests-to-run
+          circleci tests glob << parameters.pw_db >>/*.txt | circleci tests split > /tmp/tests-to-run
           cat /tmp/tests-to-run
 
 workflows:
