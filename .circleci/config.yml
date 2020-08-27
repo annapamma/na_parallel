@@ -9,17 +9,19 @@ jobs:
         type: string
         default: 'kegg'
     resource_class: small
-    parallelism: 10
+#    parallelism: 10
     steps:
       - checkout
       - add_ssh_keys:
           fingerprints:
             - 0b:40:cc:78:9a:25:bb:ae:84:1b:ac:cb:68:f3:97:98
-      - run: echo << parameters.pw_db >>
+#      - run: echo << parameters.pw_db >>
+#      - run: |
+#          circleci tests glob << parameters.pw_db >>/*.txt | circleci tests split > /tmp/tests-to-run
+#          cat /tmp/tests-to-run
       - run: |
-          circleci tests glob << parameters.pw_db >>/*.txt | circleci tests split > /tmp/tests-to-run
-          cat /tmp/tests-to-run
-      - run: |
+          git config --global user.email "anna.pamela@gmail.com"
+          git config --global user.name "annapamma"
           echo 'foo' > bar.txt
           git add bar.txt
           git commit -m "test push"
