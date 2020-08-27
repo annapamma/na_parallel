@@ -1,2 +1,1 @@
-Phosphorylation of proteins involved in the G2-M transition by Cyclin A:Cdc2 complexes
-CDK1	CCNA1	CCNA2
+CCNA1	CDK1	CCNA2

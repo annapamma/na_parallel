@@ -1,2 +1,1 @@
-Antagonism of Activin by Follistatin
-INHBB	FST	INHBA	FSTL3
+FSTL3	INHBB	INHBA	FST

@@ -1,2 +1,1 @@
-Cytochrome c-mediated apoptotic response
-CASP3	CASP9	APAF1	CASP7	CYCS
+CASP7	CYCS	APAF1	CASP9	CASP3

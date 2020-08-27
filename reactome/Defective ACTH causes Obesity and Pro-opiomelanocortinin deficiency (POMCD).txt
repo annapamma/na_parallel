@@ -1,2 +1,1 @@
-Defective ACTH causes Obesity and Pro-opiomelanocortinin deficiency (POMCD)
-MC2R	POMC
+POMC	MC2R

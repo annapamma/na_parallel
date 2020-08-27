@@ -1,2 +1,1 @@
-Interleukin-33 signaling
 IL33	IL1RL1	IL1RAP

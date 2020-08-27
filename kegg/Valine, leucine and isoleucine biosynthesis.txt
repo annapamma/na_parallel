@@ -1,2 +1,1 @@
-Valine, leucine and isoleucine biosynthesis
-SDSL	BCAT1	SDS	BCAT2
+SDS	BCAT2	SDSL	BCAT1

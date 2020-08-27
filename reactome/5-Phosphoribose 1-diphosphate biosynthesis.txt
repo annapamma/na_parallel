@@ -1,2 +1,1 @@
-5-Phosphoribose 1-diphosphate biosynthesis
-PRPS2	PRPS1L1	PRPS1
+PRPS1L1	PRPS1	PRPS2

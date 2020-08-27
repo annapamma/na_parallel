@@ -1,2 +1,1 @@
-Activation and oligomerization of BAK protein
 BAK1	BID

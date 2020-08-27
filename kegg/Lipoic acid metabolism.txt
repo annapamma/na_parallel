@@ -1,2 +1,1 @@
-Lipoic acid metabolism
-LIPT2	LIAS	LIPT1
+LIPT1	LIPT2	LIAS

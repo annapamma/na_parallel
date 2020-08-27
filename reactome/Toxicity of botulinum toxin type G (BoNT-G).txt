@@ -1,2 +1,1 @@
-Toxicity of botulinum toxin type G (BoNT-G)
 VAMP2	VAMP1	SYT1

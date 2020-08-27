@@ -1,2 +1,1 @@
-Entry of Influenza Virion into Host Cell via Endocytosis
-PRH1	ATP1A1	ABCB8	GSTA2	CLTA	PNP	CLTC
+GSTA2	CLTA	PNP	PRH1	ABCB8	CLTC	ATP1A1

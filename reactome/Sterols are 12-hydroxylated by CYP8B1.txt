@@ -1,2 +1,1 @@
-Sterols are 12-hydroxylated by CYP8B1
-PTGIS	CYP8B1
+CYP8B1	PTGIS

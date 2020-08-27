@@ -1,2 +1,1 @@
-APC truncation mutants are not K63 polyubiquitinated
 APC

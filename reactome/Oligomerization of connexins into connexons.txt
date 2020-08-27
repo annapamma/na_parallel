@@ -1,2 +1,1 @@
-Oligomerization of connexins into connexons
 GJB1	GJA1	GJB2

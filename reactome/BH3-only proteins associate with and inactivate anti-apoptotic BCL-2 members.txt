@@ -1,2 +1,1 @@
-BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members
-BCL2	PMAIP1	BAD	BID	BBC3	BMF	BCL2L1	BCL2L11
+BID	BBC3	BCL2L11	PMAIP1	BMF	BCL2L1	BAD	BCL2

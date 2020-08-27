@@ -1,2 +1,1 @@
-Cholesterol biosynthesis via lathosterol
-DHCR7	SC5D	EBP	DHCR24
+EBP	DHCR24	SC5D	DHCR7

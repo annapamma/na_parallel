@@ -1,2 +1,1 @@
-Toxicity of botulinum toxin type F (BoNT-F)
-VAMP2	SV2B	SV2C	VAMP1	SV2A
+SV2A	SV2C	VAMP1	SV2B	VAMP2

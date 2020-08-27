@@ -1,2 +1,1 @@
-ATP sensitive Potassium channels
-KCNJ11	KCNJ8	ABCC8	ABCC9
+ABCC9	ABCC8	KCNJ11	KCNJ8

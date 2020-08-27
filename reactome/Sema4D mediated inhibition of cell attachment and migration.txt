@@ -1,2 +1,1 @@
-Sema4D mediated inhibition of cell attachment and migration
-MET	RAC1	RRAS	RND1	SEMA4D	ARHGAP35	RHOA	PLXNB1
+RHOA	RRAS	RND1	RAC1	PLXNB1	MET	ARHGAP35	SEMA4D

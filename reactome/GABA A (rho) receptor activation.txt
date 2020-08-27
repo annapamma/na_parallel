@@ -1,2 +1,1 @@
-GABA A (rho) receptor activation
-GABRR1	GABRR3	GABRR2
+GABRR3	GABRR1	GABRR2

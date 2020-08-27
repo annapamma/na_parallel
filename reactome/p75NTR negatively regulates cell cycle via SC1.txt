@@ -1,2 +1,1 @@
-p75NTR negatively regulates cell cycle via SC1
-HDAC1	NGFR	NGF	HDAC2	HDAC3	PRDM4
+HDAC1	HDAC2	NGF	PRDM4	HDAC3	NGFR

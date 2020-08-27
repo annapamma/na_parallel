@@ -1,2 +1,1 @@
-Sodium-coupled sulphate, di- and tri-carboxylate transporters
-SLC13A1	SLC13A3	SLC13A5	SLC13A4	SLC13A2
+SLC13A4	SLC13A5	SLC13A2	SLC13A3	SLC13A1

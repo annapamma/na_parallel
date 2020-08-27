@@ -1,2 +1,1 @@
-Highly sodium permeable acetylcholine nicotinic receptors
-CHRND	CHRNG	CHRNA4	CHRNB2	CHRNE	CHRNB4	CHRNA3
+CHRND	CHRNA4	CHRNB2	CHRNE	CHRNA3	CHRNB4	CHRNG

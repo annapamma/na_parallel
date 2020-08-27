@@ -1,2 +1,1 @@
-Amine Oxidase reactions
-PAOX	MAOA	SMOX	MAOB
+SMOX	PAOX	MAOA	MAOB

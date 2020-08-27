@@ -1,2 +1,1 @@
-Regulation of thyroid hormone activity
-DIO2	DIO1	DIO3
+DIO3	DIO1	DIO2

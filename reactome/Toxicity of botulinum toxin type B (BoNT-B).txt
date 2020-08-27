@@ -1,2 +1,1 @@
-Toxicity of botulinum toxin type B (BoNT-B)
-VAMP2	SYT2	SYT1
+SYT2	VAMP2	SYT1

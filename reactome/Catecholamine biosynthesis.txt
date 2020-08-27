@@ -1,2 +1,1 @@
-Catecholamine biosynthesis
-DBH	DDC	TH	PNMT
+DDC	TH	PNMT	DBH

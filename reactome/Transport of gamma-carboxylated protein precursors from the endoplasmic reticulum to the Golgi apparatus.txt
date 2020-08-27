@@ -1,2 +1,1 @@
-Transport of gamma-carboxylated protein precursors from the endoplasmic reticulum to the Golgi apparatus
-PROS1	F7	F10	GAS6	PROZ	BGLAP	F9	F2	PROC
+F9	BGLAP	PROS1	PROZ	F7	PROC	F2	F10	GAS6

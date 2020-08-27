@@ -1,2 +1,1 @@
-Metabolic disorders of biological oxidation enzymes
-MC2R	FDXR	FDX2	FDX1	CYP11A1	POMC
+FDXR	FDX1	MC2R	POMC	CYP11A1	FDX2

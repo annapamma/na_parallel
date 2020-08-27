@@ -1,2 +1,1 @@
-Neomycin, kanamycin and gentamicin biosynthesis
-GCK	HK3	HK2	HKDC1	HK1
+HK1	GCK	HKDC1	HK2	HK3

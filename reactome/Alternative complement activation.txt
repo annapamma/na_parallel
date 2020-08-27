@@ -1,2 +1,1 @@
-Alternative complement activation
-C3	CFD	GZMM	CFB
+GZMM	C3	CFB	CFD

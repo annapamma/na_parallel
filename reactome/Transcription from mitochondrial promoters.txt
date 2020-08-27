@@ -1,2 +1,1 @@
-Transcription from mitochondrial promoters
-TFAM	TFB2M	MTERF1	POLRMT
+POLRMT	MTERF1	TFAM	TFB2M

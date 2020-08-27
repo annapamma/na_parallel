@@ -1,2 +1,1 @@
-Agmatine biosynthesis
-AGMAT	AZIN2
+AZIN2	AGMAT

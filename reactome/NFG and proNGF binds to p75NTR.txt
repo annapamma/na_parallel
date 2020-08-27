@@ -1,2 +1,1 @@
-NFG and proNGF binds to p75NTR
-NGF	SORCS3	NGFR
+NGF	NGFR	SORCS3

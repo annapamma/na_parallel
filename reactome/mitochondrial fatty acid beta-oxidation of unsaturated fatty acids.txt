@@ -1,2 +1,1 @@
-mitochondrial fatty acid beta-oxidation of unsaturated fatty acids
-ECI1	HADHB	DECR1	ACADM	ACADL	HADHA
+DECR1	ACADM	ECI1	ACADL	HADHB	HADHA

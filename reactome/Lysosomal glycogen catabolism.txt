@@ -1,2 +1,1 @@
-Lysosomal glycogen catabolism
-GYG2	GYG1	GAA
+GYG1	GAA	GYG2

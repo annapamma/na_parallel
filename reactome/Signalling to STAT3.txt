@@ -1,2 +1,1 @@
-Signalling to STAT3
 NGF	NTRK1	STAT3

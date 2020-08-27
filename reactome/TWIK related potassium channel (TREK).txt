@@ -1,2 +1,1 @@
-TWIK related potassium channel (TREK)
-KCNK2	KCNK4	KCNK10
+KCNK2	KCNK10	KCNK4

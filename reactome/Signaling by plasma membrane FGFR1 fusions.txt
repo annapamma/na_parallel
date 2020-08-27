@@ -1,2 +1,1 @@
-Signaling by plasma membrane FGFR1 fusions
-FGFR1	ERLIN2	BAG4
+BAG4	FGFR1	ERLIN2

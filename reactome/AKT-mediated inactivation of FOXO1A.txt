@@ -1,2 +1,1 @@
-AKT-mediated inactivation of FOXO1A
-FOXO1	AKT2	AKT3	AKT1
+AKT1	AKT2	AKT3	FOXO1

@@ -1,2 +1,1 @@
-RUNX1 regulates transcription of genes involved in BCR signaling
-CBFB	PAX5	RUNX1	ELF2	BLK	ELF1
+RUNX1	BLK	PAX5	ELF1	ELF2	CBFB

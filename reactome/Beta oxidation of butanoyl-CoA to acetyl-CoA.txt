@@ -1,2 +1,1 @@
-Beta oxidation of butanoyl-CoA to acetyl-CoA
-HADH	ECHS1	ACSM6	ACADS	ACSM3
+ACSM3	HADH	ACSM6	ACADS	ECHS1

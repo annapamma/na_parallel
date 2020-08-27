@@ -1,2 +1,1 @@
-Mitochondrial transcription initiation
-TFAM	TFB2M	POLRMT
+POLRMT	TFAM	TFB2M

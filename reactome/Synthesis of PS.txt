@@ -1,2 +1,1 @@
-Synthesis of PS
-PTDSS2	PTDSS1
+PTDSS1	PTDSS2

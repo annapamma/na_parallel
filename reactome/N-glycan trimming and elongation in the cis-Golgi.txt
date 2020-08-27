@@ -1,2 +1,1 @@
-N-glycan trimming and elongation in the cis-Golgi
-MAN1C1	MAN1A2	MAN1A1	MANEA	MGAT1
+MAN1A1	MGAT1	MAN1A2	MAN1C1	MANEA

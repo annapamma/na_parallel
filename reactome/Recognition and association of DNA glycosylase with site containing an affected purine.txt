@@ -1,2 +1,1 @@
-Recognition and association of DNA glycosylase with site containing an affected purine
 MUTYH	OGG1	MPG

@@ -1,2 +1,1 @@
-EGFR interacts with phospholipase C-gamma
-EGFR	PLCG1	EGF
+PLCG1	EGF	EGFR

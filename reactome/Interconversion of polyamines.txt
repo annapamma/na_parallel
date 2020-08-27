@@ -1,2 +1,1 @@
-Interconversion of polyamines
-PAOX	SMOX	SAT1
+SMOX	PAOX	SAT1

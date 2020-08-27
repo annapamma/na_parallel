@@ -1,2 +1,1 @@
-RNF mutants show enhanced WNT signaling and proliferation
-WNT3A	FZD5	RNF43	FZD6	LRP5	FZD8	FZD4	LRP6
+LRP6	FZD4	LRP5	FZD6	FZD5	WNT3A	RNF43	FZD8

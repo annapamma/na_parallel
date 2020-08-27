@@ -1,2 +1,1 @@
-Hyaluronan biosynthesis and export
-HAS2	CEMIP	HAS3	ABCC5	HAS1
+HAS1	HAS3	ABCC5	CEMIP	HAS2

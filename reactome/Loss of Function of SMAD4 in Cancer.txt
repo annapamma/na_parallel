@@ -1,2 +1,1 @@
-Loss of Function of SMAD4 in Cancer
-SMAD4	SMAD3	SMAD2
+SMAD3	SMAD4	SMAD2

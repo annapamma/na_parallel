@@ -1,2 +1,1 @@
-Transcriptional  activation of  cell cycle inhibitor p21
-ZNF385A	TP53	PCBP4	CDKN1A
+CDKN1A	ZNF385A	TP53	PCBP4

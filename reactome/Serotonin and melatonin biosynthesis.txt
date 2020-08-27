@@ -1,2 +1,1 @@
-Serotonin and melatonin biosynthesis
-ASMT	TPH2	DDC	TPH1	AANAT
+DDC	ASMT	AANAT	TPH2	TPH1

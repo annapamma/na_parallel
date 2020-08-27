@@ -1,2 +1,1 @@
-Formyl peptide receptors bind formyl peptides and many other ligands
-APP	CCL23	MT-RNR2	SAA1	FPR2	ANXA1	FPR3	HEBP1	FPR1
+APP	FPR1	HEBP1	FPR3	CCL23	SAA1	MT-RNR2	ANXA1	FPR2

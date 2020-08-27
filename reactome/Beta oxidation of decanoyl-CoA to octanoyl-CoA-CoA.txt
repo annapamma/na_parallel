@@ -1,2 +1,1 @@
-Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA
-MECR	HADHB	HADH	ACADM	ECHS1	HADHA
+HADH	MECR	ACADM	HADHB	ECHS1	HADHA

@@ -1,2 +1,1 @@
-Loss of Function of FBXW7 in Cancer and NOTCH1 Signaling
-FBXW7	NOTCH1	RBX1	SKP1	CUL1
+NOTCH1	RBX1	CUL1	SKP1	FBXW7

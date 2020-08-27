@@ -1,2 +1,1 @@
-Nef mediated downregulation of CD28 cell surface expression
-CD28	AP2M1	ACOT8
+ACOT8	AP2M1	CD28

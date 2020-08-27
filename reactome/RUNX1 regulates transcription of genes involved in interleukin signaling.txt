@@ -1,2 +1,1 @@
-RUNX1 regulates transcription of genes involved in interleukin signaling
-CBFB	LIFR	RUNX1	IL3	ELF1
+RUNX1	ELF1	IL3	LIFR	CBFB

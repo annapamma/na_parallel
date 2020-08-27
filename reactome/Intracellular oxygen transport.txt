@@ -1,2 +1,1 @@
-Intracellular oxygen transport
-NGB	MB	CYGB
+CYGB	NGB	MB

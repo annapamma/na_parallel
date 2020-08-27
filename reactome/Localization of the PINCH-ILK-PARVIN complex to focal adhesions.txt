@@ -1,2 +1,1 @@
-Localization of the PINCH-ILK-PARVIN complex to focal adhesions
-PARVA	PXN	ILK	ITGB1
+PARVA	PXN	ITGB1	ILK

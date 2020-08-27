@@ -1,2 +1,1 @@
-Defective ABCA3 causes pulmonary surfactant metabolism dysfunction type 3 (SMDP3)
-SFTPB	SFTPA1	SFTPC	SFTPA2	SFTPD
+SFTPC	SFTPD	SFTPA2	SFTPB	SFTPA1

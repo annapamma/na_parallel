@@ -1,2 +1,1 @@
-Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA
-HADHB	HADH	ACADL	ECHS1	HADHA
+HADH	HADHB	ACADL	ECHS1	HADHA

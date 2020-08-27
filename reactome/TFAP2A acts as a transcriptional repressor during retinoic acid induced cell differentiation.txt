@@ -1,2 +1,1 @@
-TFAP2A acts as a transcriptional repressor during retinoic acid induced cell differentiation
-NPM1	NOP2	TFAP2A	HSPD1	MYBL2
+TFAP2A	NPM1	MYBL2	NOP2	HSPD1

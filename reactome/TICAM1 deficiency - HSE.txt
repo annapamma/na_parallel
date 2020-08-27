@@ -1,2 +1,1 @@
-TICAM1 deficiency - HSE
 TLR3	TICAM1

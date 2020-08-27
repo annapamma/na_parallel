@@ -1,2 +1,1 @@
-APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway
-OGG1	NEIL1	POLB	NEIL2	PNKP	LIG3	XRCC1
+NEIL1	XRCC1	NEIL2	PNKP	OGG1	LIG3	POLB

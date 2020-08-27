@@ -1,2 +1,1 @@
-CREB phosphorylation through the activation of CaMKK
-CAMK4	CAMKK1	CREB1	CALM1
+CREB1	CAMK4	CAMKK1	CALM1

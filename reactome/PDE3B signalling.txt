@@ -1,2 +1,1 @@
-PDE3B signalling
-PDE3B	AKT2
+AKT2	PDE3B

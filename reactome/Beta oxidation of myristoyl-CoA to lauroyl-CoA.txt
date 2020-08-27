@@ -1,2 +1,1 @@
-Beta oxidation of myristoyl-CoA to lauroyl-CoA
 ACADL	HADHB	HADHA

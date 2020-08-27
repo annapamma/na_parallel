@@ -1,2 +1,1 @@
-Optineurin and Myosin Phosphatase Negatively Regulate PLK1
-OPTN	RAB8A	PLK1
+RAB8A	OPTN	PLK1

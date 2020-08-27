@@ -1,2 +1,1 @@
-Cell redox homeostasis
-AAED1	TPO	FGD1	DLAT
+AAED1	DLAT	FGD1	TPO

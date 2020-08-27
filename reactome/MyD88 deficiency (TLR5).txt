@@ -1,2 +1,1 @@
-MyD88 deficiency (TLR5)
 IRAK4	MYD88	TLR5

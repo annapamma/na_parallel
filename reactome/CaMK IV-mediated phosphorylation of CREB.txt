@@ -1,2 +1,1 @@
-CaMK IV-mediated phosphorylation of CREB
-CREB1	CALM1	CAMK4
+CREB1	CAMK4	CALM1

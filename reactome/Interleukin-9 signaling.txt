@@ -1,2 +1,1 @@
-Interleukin-9 signaling
-JAK1	JAK3	IL9R	IL9	IL2RG
+IL9	JAK1	IL2RG	IL9R	JAK3

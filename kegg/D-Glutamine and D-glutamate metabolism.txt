@@ -1,2 +1,1 @@
-D-Glutamine and D-glutamate metabolism
-DGLUCY	GLS2	GLUD2	GLS	GLUD1
+GLUD1	GLUD2	GLS	DGLUCY	GLS2

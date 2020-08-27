@@ -1,2 +1,1 @@
-Serotonin clearance from the synaptic cleft
-MAOA	SLC6A4	ALDH2
+SLC6A4	MAOA	ALDH2

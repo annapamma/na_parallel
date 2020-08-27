@@ -1,2 +1,1 @@
-Ficolins bind to repetitive carbohydrate structures on the target cell surface
-FCN2	MASP1	MASP2	FCN3	FCN1
+FCN1	MASP1	MASP2	FCN3	FCN2

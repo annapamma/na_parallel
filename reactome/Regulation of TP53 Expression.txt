@@ -1,2 +1,1 @@
-Regulation of TP53 Expression
-PRDM1	TP53
+TP53	PRDM1

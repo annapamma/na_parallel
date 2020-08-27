@@ -1,2 +1,1 @@
-RUNX1 regulates transcription of genes involved in WNT signaling
-CBFB	ESR1	RUNX1	AXIN1	FOXP3	RSPO3
+ESR1	FOXP3	RUNX1	AXIN1	RSPO3	CBFB

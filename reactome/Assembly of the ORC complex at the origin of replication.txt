@@ -1,2 +1,1 @@
-Assembly of the ORC complex at the origin of replication
-ORC1	ORC2	ORC5	ORC3	ORC4	ORC6
+ORC2	ORC5	ORC6	ORC1	ORC3	ORC4

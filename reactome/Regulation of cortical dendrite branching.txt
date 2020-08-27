@@ -1,2 +1,1 @@
-Regulation of cortical dendrite branching
-ROBO1	SLIT1	NCK2	ROBO2
+ROBO2	SLIT1	NCK2	ROBO1

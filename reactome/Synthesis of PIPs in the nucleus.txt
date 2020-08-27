@@ -1,2 +1,1 @@
-Synthesis of PIPs in the nucleus
-PIP4K2B	PIP4K2A	PIP4K2C
+PIP4K2C	PIP4K2B	PIP4K2A

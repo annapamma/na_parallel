@@ -1,2 +1,1 @@
-PTK6 Down-Regulation
-PTPN1	PTK6	SRMS
+PTK6	SRMS	PTPN1

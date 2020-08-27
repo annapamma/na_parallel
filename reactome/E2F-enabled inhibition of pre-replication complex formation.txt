@@ -1,2 +1,1 @@
-E2F-enabled inhibition of pre-replication complex formation
-ORC1	CDK1	ORC5	ORC2	MCM8	ORC3	ORC4	CCNB1	ORC6
+ORC2	MCM8	ORC5	ORC6	ORC1	CDK1	ORC3	CCNB1	ORC4

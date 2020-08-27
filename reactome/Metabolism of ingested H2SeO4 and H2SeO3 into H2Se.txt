@@ -1,2 +1,1 @@
-Metabolism of ingested H2SeO4 and H2SeO3 into H2Se
-GSR	PAPSS1	TXNRD1	PAPSS2
+PAPSS1	GSR	PAPSS2	TXNRD1

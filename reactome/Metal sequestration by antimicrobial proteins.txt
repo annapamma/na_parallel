@@ -1,2 +1,1 @@
-Metal sequestration by antimicrobial proteins
-S100A7A	S100A8	S100A9	S100A7	LTF	LCN2
+S100A7	S100A8	LTF	S100A9	S100A7A	LCN2

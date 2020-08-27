@@ -1,2 +1,1 @@
-Acetylation
 NAT2	NAT1

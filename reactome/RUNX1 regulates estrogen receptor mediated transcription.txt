@@ -1,2 +1,1 @@
-RUNX1 regulates estrogen receptor mediated transcription
-CBFB	ESR1	RUNX1	GPAM	KCTD6	AXIN1
+ESR1	GPAM	RUNX1	KCTD6	AXIN1	CBFB

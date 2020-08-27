@@ -1,2 +1,1 @@
-Biotin metabolism
-BTD	OXSM	HLCS
+BTD	HLCS	OXSM

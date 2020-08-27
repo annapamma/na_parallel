@@ -1,2 +1,1 @@
-Astrocytic Glutamate-Glutamine Uptake And Metabolism
-SLC1A2	SLC38A1	SLC1A3	GLUL
+SLC1A2	SLC1A3	GLUL	SLC38A1

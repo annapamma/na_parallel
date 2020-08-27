@@ -1,2 +1,1 @@
-Toxicity of botulinum toxin type A (BoNT-A)
-SV2A	SV2B	SNAP25	SV2C
+SV2C	SV2B	SNAP25	SV2A

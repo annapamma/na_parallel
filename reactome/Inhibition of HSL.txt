@@ -1,2 +1,1 @@
-Inhibition of HSL
-PDE3B	AKT2
+AKT2	PDE3B

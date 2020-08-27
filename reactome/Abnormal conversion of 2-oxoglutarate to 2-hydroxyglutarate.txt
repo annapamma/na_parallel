@@ -1,2 +1,1 @@
-Abnormal conversion of 2-oxoglutarate to 2-hydroxyglutarate
 IDH1

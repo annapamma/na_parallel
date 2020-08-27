@@ -1,2 +1,1 @@
-Diseases of Mismatch Repair (MMR)
-MSH2	PMS2	MSH3	MLH1	MSH6
+MSH2	PMS2	MSH6	MLH1	MSH3

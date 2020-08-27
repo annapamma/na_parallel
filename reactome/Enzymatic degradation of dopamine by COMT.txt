@@ -1,2 +1,1 @@
-Enzymatic degradation of dopamine by COMT
-COMT	MAOA	LRTOMT
+LRTOMT	MAOA	COMT

@@ -1,2 +1,1 @@
-Terminal pathway of complement
-C7	CLU	C5	C8B	C6	C8G	C8A	C9
+C9	C8B	C5	CLU	C8A	C7	C8G	C6

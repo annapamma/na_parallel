@@ -1,2 +1,1 @@
-XAV939 inhibits tankyrase, stabilizing AXIN
-TNKS	TNKS2
+TNKS2	TNKS

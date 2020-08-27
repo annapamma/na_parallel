@@ -1,2 +1,1 @@
-t(4;14) translocations of FGFR3
 FGFR3

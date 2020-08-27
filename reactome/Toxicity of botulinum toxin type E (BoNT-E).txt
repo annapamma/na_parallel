@@ -1,2 +1,1 @@
-Toxicity of botulinum toxin type E (BoNT-E)
-SV2A	SV2B	SNAP25
+SV2B	SNAP25	SV2A

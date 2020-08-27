@@ -1,2 +1,1 @@
-Intestinal infectious diseases
-GUCY2C	PDZD3
+PDZD3	GUCY2C

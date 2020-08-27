@@ -1,2 +1,1 @@
-Defective POMT1 causes MDDGA1, MDDGB1 and MDDGC1
 DAG1

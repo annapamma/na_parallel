@@ -1,2 +1,1 @@
-Potassium transport channels
 KCNJ1	KCNJ10	KCNJ16

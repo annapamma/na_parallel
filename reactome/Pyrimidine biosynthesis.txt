@@ -1,2 +1,1 @@
-Pyrimidine biosynthesis
-UMPS	CAD	DHODH
+DHODH	UMPS	CAD

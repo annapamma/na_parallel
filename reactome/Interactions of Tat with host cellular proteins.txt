@@ -1,2 +1,1 @@
-Interactions of Tat with host cellular proteins
-CCNT1	TAT	CDK9
+TAT	CDK9	CCNT1

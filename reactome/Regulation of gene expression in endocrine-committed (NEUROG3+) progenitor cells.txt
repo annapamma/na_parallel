@@ -1,2 +1,1 @@
-Regulation of gene expression in endocrine-committed (NEUROG3+) progenitor cells
-NEUROD1	INSM1	PAX4	NKX2-2	NEUROG3
+NEUROG3	INSM1	NEUROD1	PAX4	NKX2-2

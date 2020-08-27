@@ -1,2 +1,1 @@
-Electric Transmission Across Gap Junctions
-PANX2	PANX1	GJA10	GJD2	GJC1
+GJC1	GJA10	GJD2	PANX2	PANX1

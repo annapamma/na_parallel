@@ -1,2 +1,1 @@
-MET interacts with TNS proteins
-TNS4	MET	TNS3	HGF	ITGB1
+HGF	TNS4	MET	ITGB1	TNS3

@@ -1,2 +1,1 @@
-Latent infection of Homo sapiens with Mycobacterium tuberculosis
-DLAT	TPO	LTF	MSRA	AAED1	FGD1
+AAED1	FGD1	MSRA	DLAT	LTF	TPO

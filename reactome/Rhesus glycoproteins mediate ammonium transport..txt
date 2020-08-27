@@ -1,2 +1,1 @@
-Rhesus glycoproteins mediate ammonium transport.
-RHAG	RHBG	RHCG
+RHAG	RHCG	RHBG

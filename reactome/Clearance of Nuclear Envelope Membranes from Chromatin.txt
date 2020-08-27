@@ -1,2 +1,1 @@
-Clearance of Nuclear Envelope Membranes from Chromatin
-VRK2	VRK1	LEMD2	TMPO	LEMD3	EMD	BANF1
+VRK2	TMPO	BANF1	LEMD2	EMD	VRK1	LEMD3

@@ -1,2 +1,1 @@
-Mitochondrial ABC transporters
-ABCB7	ABCB6	ABCB8	ABCB10
+ABCB10	ABCB7	ABCB8	ABCB6

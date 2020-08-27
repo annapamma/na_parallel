@@ -1,2 +1,1 @@
-C6 deamination of adenosine
 ADAR	ADARB1

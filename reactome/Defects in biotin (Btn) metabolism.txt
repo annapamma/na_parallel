@@ -1,2 +1,1 @@
-Defects in biotin (Btn) metabolism
-MCCC2	PCCA	PCCB	ACACA	PC	MCCC1
+PCCB	MCCC2	PC	PCCA	ACACA	MCCC1

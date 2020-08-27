@@ -1,2 +1,1 @@
-TFAP2 (AP-2) family regulates transcription of cell cycle factors
-TFAP2A	TFAP2C	KDM5B	MYC	CDKN1A
+CDKN1A	TFAP2A	TFAP2C	MYC	KDM5B

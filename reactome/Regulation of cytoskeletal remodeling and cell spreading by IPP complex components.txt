@@ -1,2 +1,1 @@
-Regulation of cytoskeletal remodeling and cell spreading by IPP complex components
-PXN	LIMS1	PARVA	ARHGEF6	RSU1	TESK1	ACTN1	PARVB
+ARHGEF6	TESK1	PARVA	PARVB	LIMS1	ACTN1	RSU1	PXN

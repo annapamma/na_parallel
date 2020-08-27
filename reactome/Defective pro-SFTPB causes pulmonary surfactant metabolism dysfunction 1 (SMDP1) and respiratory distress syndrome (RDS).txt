@@ -1,2 +1,1 @@
-Defective pro-SFTPB causes pulmonary surfactant metabolism dysfunction 1 (SMDP1) and respiratory distress syndrome (RDS)
-CCDC59	SFTPB	TTF1
+TTF1	SFTPB	CCDC59

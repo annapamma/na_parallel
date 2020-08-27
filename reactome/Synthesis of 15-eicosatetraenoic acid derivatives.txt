@@ -1,2 +1,1 @@
-Synthesis of 15-eicosatetraenoic acid derivatives
-GPX1	ALOX15	ALOX15B	GPX2	GPX4	PTGS2
+ALOX15	GPX1	GPX2	ALOX15B	GPX4	PTGS2

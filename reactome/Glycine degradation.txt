@@ -1,2 +1,1 @@
-Glycine degradation
-GCSH	GLDC	AMT	DLD
+GCSH	DLD	AMT	GLDC

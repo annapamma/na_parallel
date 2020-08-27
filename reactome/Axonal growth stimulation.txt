@@ -1,2 +1,1 @@
-Axonal growth stimulation
-NGF	NGFR	ARHGDIA	RHOA
+NGF	ARHGDIA	NGFR	RHOA

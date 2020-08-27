@@ -1,2 +1,1 @@
-PAOs oxidise polyamines to amines
-PAOX	SMOX
+SMOX	PAOX

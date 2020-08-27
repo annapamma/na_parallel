@@ -1,2 +1,1 @@
-Defective ABCC8 can cause hypoglycemias and hyperglycemias
-KCNJ11	ABCC8
+ABCC8	KCNJ11

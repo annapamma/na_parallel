@@ -1,2 +1,1 @@
-Scavenging by Class H Receptors
-STAB1	APOB	SPARC	STAB2
+STAB2	STAB1	SPARC	APOB

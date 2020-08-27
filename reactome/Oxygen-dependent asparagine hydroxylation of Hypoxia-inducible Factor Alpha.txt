@@ -1,2 +1,1 @@
-Oxygen-dependent asparagine hydroxylation of Hypoxia-inducible Factor Alpha
-EPAS1	HIF1A	HIF1AN
+HIF1AN	HIF1A	EPAS1

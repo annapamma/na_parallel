@@ -1,2 +1,1 @@
-Release of apoptotic factors from the mitochondria
-DIABLO	CYCS
+CYCS	DIABLO

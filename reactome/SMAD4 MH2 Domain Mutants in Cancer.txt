@@ -1,2 +1,1 @@
-SMAD4 MH2 Domain Mutants in Cancer
-SMAD4	SMAD3	SMAD2
+SMAD3	SMAD4	SMAD2

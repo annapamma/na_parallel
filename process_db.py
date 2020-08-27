@@ -9,7 +9,5 @@ for db_name in pw_dbs:
         if '/' in pw:
             pw = '-'.join(pw.split('/'))
         with open(f'{db_name}/{pw}.txt', 'w') as f:
-            f.write(pw)
-            f.write('\n')
             f.write('\t'.join(genes))
         print(f'finished: {db_name} - {pw}')

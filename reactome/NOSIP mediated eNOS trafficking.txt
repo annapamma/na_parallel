@@ -1,2 +1,1 @@
-NOSIP mediated eNOS trafficking
-NOSIP	NOS3
+NOS3	NOSIP

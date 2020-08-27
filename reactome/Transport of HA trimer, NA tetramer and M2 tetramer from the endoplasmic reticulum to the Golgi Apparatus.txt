@@ -1,2 +1,1 @@
-Transport of HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum to the Golgi Apparatus
-GSTA2	ATP1A1	ABCB8
+GSTA2	ABCB8	ATP1A1

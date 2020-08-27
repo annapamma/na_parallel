@@ -1,2 +1,1 @@
-Resolution of AP sites via the single-nucleotide replacement pathway
-POLB	LIG3	XRCC1	APEX1
+LIG3	POLB	APEX1	XRCC1

@@ -1,2 +1,1 @@
-Interleukin-37 signaling
-IL18R1	IL37
+IL37	IL18R1

@@ -1,2 +1,1 @@
-Synthesis of dolichyl-phosphate-glucose
-ALG5	NUDT14
+NUDT14	ALG5

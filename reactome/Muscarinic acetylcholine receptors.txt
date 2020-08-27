@@ -1,2 +1,1 @@
-Muscarinic acetylcholine receptors
-CHRM5	CHRM3	CHRM2	CHRM1	CHRM4
+CHRM3	CHRM1	CHRM5	CHRM2	CHRM4

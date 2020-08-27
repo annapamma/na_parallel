@@ -1,2 +1,1 @@
-LRR FLII-interacting protein 1 (LRRFIP1) activates type I IFN production
-LRRFIP1	CTNNB1	EP300	IRF3	CREBBP
+IRF3	LRRFIP1	CTNNB1	EP300	CREBBP

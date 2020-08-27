@@ -1,2 +1,1 @@
-RUNX1 regulates expression of components of tight junctions
-CBFB	OCLN	RUNX1	CLDN5	TJP1
+TJP1	RUNX1	OCLN	CLDN5	CBFB
