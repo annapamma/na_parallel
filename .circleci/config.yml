@@ -20,10 +20,9 @@ jobs:
           circleci tests glob << parameters.pw_db >>/*.txt | circleci tests split > /tmp/tests-to-run
           cat /tmp/tests-to-run
           echo "/tmp/artifact-${CIRCLE_NODE_INDEX}"
-          mkdir -p "/tmp/artifact-${CIRCLE_NODE_INDEX}"
-          echo "test" > "/tmp/artifact-${CIRCLE_NODE_INDEX}/artifact-file"
+          echo "test" > "/tmp/artifact-file-${CIRCLE_NODE_INDEX}"
       - store_artifacts:
-          path: "/tmp/artifact-${CIRCLE_NODE_INDEX}"
+          path: /tmp/
           destination: artifact-file
 #          python main.py
 #      - run: |
