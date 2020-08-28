@@ -19,17 +19,23 @@ jobs:
       - run: |
           circleci tests glob << parameters.pw_db >>/*.txt | circleci tests split > /tmp/tests-to-run
           cat /tmp/tests-to-run
-          python main.py
-      - run: |
-          ls
-          ls distributions/<< parameters.pw_db >>
-      - run: |
-          git pull
-          git config --global user.email "anna.pamela@gmail.com"
-          git config --global user.name "annapamma"
-          git add distributions
-          git commit --allow-empty -m "test push"
-          git push
+          echo "/tmp/artifact-${CIRCLE_NODE_INDEX}"
+          mkdir -p "/tmp/artifact-${CIRCLE_NODE_INDEX}"
+          echo "test" > "/tmp/artifact-${CIRCLE_NODE_INDEX}"
+      - store_artifacts:
+          path: "/tmp/artifact-${CIRCLE_NODE_INDEX}"
+          destination: artifact-file
+#          python main.py
+#      - run: |
+#          ls
+#          ls distributions/<< parameters.pw_db >>
+#      - run: |
+#          git pull
+#          git config --global user.email "anna.pamela@gmail.com"
+#          git config --global user.name "annapamma"
+#          git add distributions
+#          git commit --allow-empty -m "test push"
+#          git push
 
 
 workflows:
