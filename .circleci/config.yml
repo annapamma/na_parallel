@@ -21,6 +21,9 @@ jobs:
           cat /tmp/tests-to-run
           python main.py
       - run: |
+          ls
+          ls distributions
+      - run: |
           git config --global user.email "anna.pamela@gmail.com"
           git config --global user.name "annapamma"
           git add distributions
