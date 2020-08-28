@@ -53,8 +53,9 @@ with open("/tmp/tests-to-run") as pathways_to_run:
         #     random_gene_len=random_gene_length
         # )
         output_dir = f'./distributions/{pw}'
-        output_f = f'{output_dir}/{random_gene_length}'
         os.makedirs(output_dir, exist_ok=True)
+        output_f = f'{output_dir}/{random_gene_length}'
+        open(output_f, 'a').close()
         print('made: ', output_dir)
         # pickle.dump(pw_dist, open(output_f, 'wb'))
         # print('finished: ', output_f)
