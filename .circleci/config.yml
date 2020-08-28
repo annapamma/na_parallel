@@ -21,7 +21,7 @@ jobs:
           cat /tmp/tests-to-run
           echo "/tmp/artifact-${CIRCLE_NODE_INDEX}"
           mkdir -p "/tmp/artifact-${CIRCLE_NODE_INDEX}"
-          echo "test" > "/tmp/artifact-${CIRCLE_NODE_INDEX}"
+          echo "test" > "/tmp/artifact-${CIRCLE_NODE_INDEX}/artifact-file"
       - store_artifacts:
           path: "/tmp/artifact-${CIRCLE_NODE_INDEX}"
           destination: artifact-file
