@@ -45,18 +45,19 @@ pw_db = pickle.load(open(f'./databases/{pw_db_name}.pkl', 'rb'))
 with open("./tmp/tests-to-run") as pathways_to_run:
     pws = pathways_to_run.read().split("\n")
     for pw in pws:
-        with open(pw) as pw_f:
-            gene_str = pw_f.read()
-            genes = set(gene_str.split('\t'))
-        pw_dist = k_neighbors_v_occurrences(
-            pw_genes=genes,
-            random_gene_len=random_gene_length
-        )
+        # with open(pw) as pw_f:
+        #     gene_str = pw_f.read()
+        #     genes = set(gene_str.split('\t'))
+        # pw_dist = k_neighbors_v_occurrences(
+        #     pw_genes=genes,
+        #     random_gene_len=random_gene_length
+        # )
         output_dir = f'./distributions/{pw}'
         output_f = f'{output_dir}/{random_gene_length}'
         os.makedirs(output_dir, exist_ok=True)
-        pickle.dump(pw_dist, open(output_f, 'wb'))
-        print('finished: ', output_f)
+        print('made: ', output_dir)
+        # pickle.dump(pw_dist, open(output_f, 'wb'))
+        # print('finished: ', output_f)
         break
 
 # for pw, genes in pw_db.items():
