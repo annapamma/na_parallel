@@ -36,13 +36,13 @@ def k_neighbors_v_occurrences(pw_genes, random_gene_len):
     return pw_counts
 
 
-ppi = pickle.load(open('/Users/anna/PycharmProjects/na_parallel/downloads/BIOGRID_dl_aug2220.pkl', 'rb'))
+ppi = pickle.load(open('./downloads/BIOGRID_dl_aug2220.pkl', 'rb'))
 ppi_dict = ppi['ppi_dict']
 all_genes = ppi['all_genes']
 
 pw_db = pickle.load(open(f'./databases/{pw_db_name}.pkl', 'rb'))
 
-with open("./tmp/tests-to-run") as pathways_to_run:
+with open("/tmp/tests-to-run") as pathways_to_run:
     pws = pathways_to_run.read().split("\n")
     for pw in pws:
         # with open(pw) as pw_f:
