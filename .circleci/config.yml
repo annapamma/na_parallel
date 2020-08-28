@@ -23,8 +23,7 @@ jobs:
       - run: |
           git config --global user.email "anna.pamela@gmail.com"
           git config --global user.name "annapamma"
-          echo 'foo' > bar.txt
-          git add bar.txt
+          git add distributions
           git commit -m "test push"
           git push
 
